@@ -1,10 +1,10 @@
 # **CarryOn by Tan Ah Ching**
 
-**Team:** Hu Jay, Nigel Cheong Tze Hock, Chee Hui Sheen, Tan Ching Yang
+**Team:** Hu Jay, Nigel Cheong Tze Hock, Amber Chee Hui Sheen, Tan Ching Yang
 
 **Problem Statement:** Beating the Burnout
 
-**Video Presentation:** [YOUTUBE LINK]
+**Video Presentation:** https://www.youtube.com/watch?v=9wLxo3ieQBc
 
 **Presentation Slides:** https://amberchs.my.canva.site/codenection-carryon
 
